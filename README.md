@@ -8,4 +8,4 @@
 
 # 📊 GitHub Stats:
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishka30&" alt="nishka30" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishka30&" alt="Nishka30" /></p>
