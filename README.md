@@ -8,4 +8,4 @@
 
 # 📊 GitHub Stats:
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nishka30&hide_border=true" alt="GitHub Streak" /></a>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishka30&" alt="nishka30" /></p>
