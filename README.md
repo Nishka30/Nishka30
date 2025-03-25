@@ -1,11 +1,65 @@
- 
+<h1 align="center">🚀 Nishka Shrimali | Full-Stack Developer | Innovator | Hackathon Champ </h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishka-shrimali-83419a225/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Nishka-shrimali) 
+<p align="center">
+  🌟 <i>Turning coffee & code into powerful solutions</i> ☕💻  
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-# 📊 GitHub Stats:
+## 🚀 About Me  
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishka30&" alt="nishka30" /></p>
+👋 Hey there! I'm **Nishka**, a **Full-Stack Developer & Problem Solver** who loves building scalable apps, cracking DSA problems, and automating life with code.  
+
+💡 **What keeps me up at night?**  
+- Crafting **MERN & Next.js apps** that people actually love using  
+- Diving into **AI & automation** (I built a chatbot, what’s next? 🤔)  
+- Winning hackathons & leading projects that make an impact  
+
+🔥 **Hackathon Highlights**  
+🏆 **Hack o Nova 2.0** – 3rd Place | **Code 4 Web** – 1st Place | **Fronthack** – 1st Place | **HackFest’23** – Finalist  
+
+📍 Currently interning at **Codepulse Solutions LLP**, where I build & deploy high-performance web apps.  
+
+---
+
+## 🚀 My Tech Stack & Tools  
+
+### 🛠️ Languages & Frameworks  
+`JavaScript` `TypeScript` `React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `SQL` `Java` `C++`  
+
+### 🛠️ DevOps & Cloud  
+`Azure DevOps` `Firebase` `AWS` `Nginx` `Docker`  
+
+### 🛠️ Frontend Magic  
+`Material-UI` `Tailwind CSS` `ShadCN` `Framer Motion`  
+
+---
+
+## 📈 My GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishka30&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishka30&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 What I’m Up To  
+🔹 **Building:** AI-powered productivity tools, automation scripts, and full-stack projects  
+🔹 **Learning:** Advanced **DevOps & System Design**  
+🔹 **Exploring:** Open-source contributions & cool side projects  
+
+🚀 Let’s build something amazing together! **Connect with me:**  
+
+📬 **Email:** [shrimalinishka@gmail.com](mailto:shrimalinishka@gmail.com)  
+💼 **LinkedIn:** [Nishka Shrimali](https://www.linkedin.com/in/nishkashrimali/)  
+📂 **Portfolio:** _(Coming Soon 🚀)_  
+
+---
+
+✨ **Fun Fact:** I don’t just code—I **paint, practice Taekwondo, and love deep tech talks**! 🎨🥋  
+
+_If you’ve read this far, you’re awesome! Let’s connect and code! 🚀🔥_  
