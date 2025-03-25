@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Nishka Shrimali | Full-Stack Developer | Innovator | Hackathon Champ </h1>
+<h1 align="center">🚀 Nishka Shrimali | Full-Stack Developer | Innovator </h1>
 
 <p align="center">
   🌟 <i>Turning coffee & code into powerful solutions</i> ☕💻  
@@ -12,13 +12,11 @@
 
 💡 **What keeps me up at night?**  
 - Crafting **MERN & Next.js apps** that people actually love using  
-- Diving into **AI & automation** (I built a chatbot, what’s next? 🤔)  
+- Exploring **AI & automation**  
 - Winning hackathons & leading projects that make an impact  
 
 🔥 **Hackathon Highlights**  
 🏆 **Hack o Nova 2.0** – 3rd Place | **Code 4 Web** – 1st Place | **Fronthack** – 1st Place | **HackFest’23** – Finalist  
-
-📍 Currently interning at **Codepulse Solutions LLP**, where I build & deploy high-performance web apps.  
 
 ---
 
@@ -56,7 +54,7 @@
 
 📬 **Email:** [shrimalinishka@gmail.com](mailto:shrimalinishka@gmail.com)  
 💼 **LinkedIn:** [Nishka Shrimali](https://www.linkedin.com/in/nishkashrimali/)  
-📂 **Portfolio:** _(Coming Soon 🚀)_  
+🌐 **Portfolio:** [nishka.vercel.app](https://nishka.vercel.app/)  
 
 ---
 
