@@ -53,7 +53,7 @@
 🚀 Let’s build something amazing together! **Connect with me:**  
 
 📬 **Email:** [shrimalinishka@gmail.com](mailto:shrimalinishka@gmail.com)  
-💼 **LinkedIn:** [Nishka Shrimali](https://www.linkedin.com/in/nishkashrimali/)  
+💼 **LinkedIn:** [Nishka Shrimali](https://www.linkedin.com/in/nishka-codes/)  
 🌐 **Portfolio:** [nishka.vercel.app](https://nishka.vercel.app/)  
 
 ---
