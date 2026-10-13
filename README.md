@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/nishka-codes/">LinkedIn</a> •
-  <a href="https://nishka.vercel.app/">Portfolio</a> •
+  <a href="https://nishka-codes.vercel.app/">Portfolio</a> •
   <a href="mailto:shrimalinishka@gmail.com">Email</a>
 </p>
 
