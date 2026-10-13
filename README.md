@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm an **Associate Software Engineer at Prolifics** with a passion for building reliable, scalable, and user-focused software.
+I'm an **Software Engineer** with a passion for building reliable, scalable, and user-focused software.
 
 My work spans **full-stack development, AI/Agentic AI, healthcare technology, enterprise applications, APIs, databases, and cloud platforms**.
 
