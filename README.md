@@ -252,7 +252,7 @@ I want to build systems that aren't just technically impressive, but actually **
 
 <p>
   🌐 <strong>Portfolio:</strong>
-  <a href="https://nishka.vercel.app/">nishka.vercel.app</a>
+  <a href="https://nishka-codes.vercel.app/">https://nishka-codes.vercel.app/</a>
 </p>
 
 <p>
