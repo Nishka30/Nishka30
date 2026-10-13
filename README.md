@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/nishka-codes/">LinkedIn</a> •
   <a href="https://nishka-codes.vercel.app/">Portfolio</a> •
-  <a href="mailto:shrimalinishka@gmail.com">Email</a>
+  <a href="mailto:shrimalinishka30@gmail.com">Email</a>
 </p>
 
 ---
@@ -257,7 +257,7 @@ I want to build systems that aren't just technically impressive, but actually **
 
 <p>
   📬 <strong>Email:</strong>
-  <a href="mailto:shrimalinishka@gmail.com">shrimalinishka@gmail.com</a>
+  <a href="mailto:shrimalinishka30@gmail.com">shrimalinishka30@gmail.com</a>
 </p>
 
 ---
