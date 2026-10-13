@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Nishka Shrimali</h1>
 
 <p align="center">
-  <strong>Associate Software Engineer • Full-Stack Developer • AI Engineer</strong>
+  <strong>Software Engineer • Full-Stack Developer • AI Engineer</strong>
 </p>
 
 <p align="center">
